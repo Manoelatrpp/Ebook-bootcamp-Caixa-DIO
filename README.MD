@@ -1,6 +1,8 @@
 # Projeto EBOOK Gerado por I.A.s
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
+## 📒 Descrição
+O projeto tem o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA e consistem em um
+ebook sobre o assunto fundos de investimento imobiliário. A criação foi totalmente gratuita. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/Manoelatrpp/Ebook-bootcamp-Caixa-DIO/blob/main/Ebook%20FIIs.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
