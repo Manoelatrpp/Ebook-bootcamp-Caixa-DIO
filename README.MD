@@ -25,7 +25,7 @@ LeonardoAI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A highly detailed 3D rendering of a futuristic building with a striking dollar sign shape, represented in an elegant and sophisticated color, as if it had been taken directly from a fantastic metropolis, crafted with state-of-the-art technology employing Unreal Engine, Octane Engine or VRAY. The building features straight, sleek, modern lines, reflective surfaces, and subtle lighting that highlights the structure's silhouette against a cloudless electric blue sky. - |
+| título | A highly detailed 3D rendering of a futuristic building with a striking dollar sign shape, represented in an elegant and sophisticated color, as if it had been taken directly from a fantastic metropolis, crafted with state-of-the-art technology employing Unreal Engine, Octane Engine or VRAY. The building features straight, sleek, modern lines, reflective surfaces, and subtle lighting that highlights the structure's silhouette against a cloudless electric blue sky.  |
 
 ## ✨ Features
 
