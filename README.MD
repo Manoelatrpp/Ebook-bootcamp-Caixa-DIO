@@ -5,7 +5,7 @@ O projeto tem o objetivo de gerar um ebook digital com as facilidades das ferram
 ebook sobre o assunto fundos de investimento imobiliário. A criação foi totalmente gratuita. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Manoelatrpp/Ebook-bootcamp-Caixa-DIO/blob/main/Ebook%20FIIs.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Manoelatrpp/Ebook-bootcamp-Caixa-DIO/blob/main/Ebook%20FIIs.pdf" title="View PDF now"> 📕 Ebook Fundos de Investimento Imobiliário</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
